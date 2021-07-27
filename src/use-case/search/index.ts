@@ -1,0 +1,1 @@
+export { SearchInteractor } from './search.interactor';
